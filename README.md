@@ -1,8 +1,8 @@
 # ⚛️ Azure Quantum Activation — Colab Execution Bridge
 ## 📊 Architecture Diagram
-![IRMB Phase 7G Azure Quantum Testflight](<img width="2816" height="1536" alt="Gemini_Generated_Image_sekxtpsekxtpsekx" src="https://github.com/user-attachments/assets/aa7abc8a-017c-4b0a-8817-89b0dde63e44" />
-)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR-COLAB-LINK-HERE)
+<img width="2816" height="1536" alt="Gemini_Generated_Image_sekxtpsekxtpsekx" src="https://github.com/user-attachments/assets/aa7abc8a-017c-4b0a-8817-89b0dde63e44" />
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](Azure_Activation_Test_Flight_Configuration.ipynb)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Platform](https://img.shields.io/badge/Platform-Azure%20Quantum-blue)](https://azure.microsoft.com/en-us/products/quantum)
 [![Quantinuum](https://img.shields.io/badge/Backend-Quantinuum%20H2-purple)](https://www.quantinuum.com)
